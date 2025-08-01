@@ -11,7 +11,7 @@ import java.util.Scanner;
  * 풀이방식
  * - 배수의 법칙 역이용 (3*4=12 --> 12%3=0)
  */
-public class ProjectEuler {
+public class Problems_1 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
